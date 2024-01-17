@@ -18,3 +18,11 @@ Se desarrollo un dashboard funcional y coherente con el storytelling. Este inclu
 3. KPIs
 
 Se graficaron y midieron dos KPIs propuestos. Estos KPIs se centrarán en reducir la tasa de homicidios en siniestros viales y la cantidad de accidentes mortales de motociclistas.
+
+
+## Herramientas 
+
+El proyecto fue en su totalidad realizado con:
+* python (principalmente pandas)
+* Power BI
+
